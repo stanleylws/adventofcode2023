@@ -1,1 +1,1 @@
-let _ = Day3.part_1 ()
+let _ = Day3.part_2 ()
